@@ -7,6 +7,7 @@
 
 1. Singleton 
 2. Factory
+3. Builder
 
 
 ## Getting started
