@@ -1,4 +1,4 @@
-const { HttpConnection, FtpConnection, SSHConnection } = require('./connection');
+const { HttpConnection, FtpConnection, SSHConnection } = require('./connections');
 
 const ConnectionTypes = new Map([
   ['http', HttpConnection],
