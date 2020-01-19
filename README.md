@@ -6,7 +6,12 @@
 ## Patterns
 
 1. Singleton 
+2. Factory
+
+
+## Getting started
+
 ```shell
-cd singleton
+cd <PATTERN NAME>
 node index.js
 ```
