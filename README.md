@@ -8,6 +8,7 @@
 1. Singleton 
 2. Factory
 3. Builder
+4. Adapter
 
 
 ## Getting started
