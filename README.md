@@ -9,6 +9,7 @@
 2. Factory
 3. Builder
 4. Adapter
+5. Proxy
 
 
 ## Getting started
