@@ -11,6 +11,7 @@
 4. Adapter
 5. Proxy
 6. Composite
+7. Decorator
 
 
 ## Getting started
