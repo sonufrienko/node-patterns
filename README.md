@@ -10,6 +10,7 @@
 3. Builder
 4. Adapter
 5. Proxy
+6. Composite
 
 
 ## Getting started
