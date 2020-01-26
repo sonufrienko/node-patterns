@@ -12,6 +12,7 @@
 5. Proxy
 6. Composite
 7. Decorator
+8. Chain of Responsibility
 
 
 ## Getting started
