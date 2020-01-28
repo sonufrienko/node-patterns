@@ -14,6 +14,8 @@
 7. Decorator
 8. Chain of Responsibility
 9. Command
+10. Iterator
+11. Observer
 
 
 ## Getting started
