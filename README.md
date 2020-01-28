@@ -13,6 +13,7 @@
 6. Composite
 7. Decorator
 8. Chain of Responsibility
+9. Command
 
 
 ## Getting started
