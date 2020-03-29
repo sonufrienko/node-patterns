@@ -1,10 +1,13 @@
-# Node.js: Design Patterns
+# JavaScript/Node.js: Design Patterns
 
 ![](patterns.jpg)
 
 
 ## Patterns
 
+|Creational|Structural|Behavioral|
+|---|---|---|
+|Prototype|||
 1. Singleton 
 2. Factory
 3. Builder
