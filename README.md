@@ -8,6 +8,7 @@
 |Creational|Structural|Behavioral|
 |---|---|---|
 |Prototype|||
+|Constructor|||
 1. Singleton 
 2. Factory
 3. Builder
