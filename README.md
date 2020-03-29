@@ -9,8 +9,9 @@
 |---|---|---|
 |Prototype|||
 |Constructor|||
-1. Singleton 
-2. Factory
+|Singleton|||
+|Factory|||
+|Abstract Factory|||
 3. Builder
 4. Adapter
 5. Proxy
