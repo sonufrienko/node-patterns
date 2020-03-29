@@ -8,3 +8,6 @@ class Place {
 
 const portimao = new Place('Portimao', 37.11662, -8.534811);
 const lisbon = new Place('Lisbon', 38.728174, -9.152561);
+
+console.log('Portimao: ', portimao);
+console.log('Lisbon: ', lisbon);
