@@ -2,26 +2,18 @@
 
 ![](patterns.jpg)
 
-
 ## Patterns
 
-|Creational|Structural|Behavioral|
-|---|---|---|
-|Prototype|||
-|Constructor|||
-|Singleton|||
-|Factory|||
-|Abstract Factory|||
-3. Builder
-4. Adapter
-5. Proxy
-6. Composite
-7. Decorator
-8. Chain of Responsibility
-9. Command
-10. Iterator
-11. Observer
-
+| Creational       | Structural  | Behavioral              |
+| ---------------- | ----------- | ----------------------- |
+| Prototype        | Module      | Observer                |
+| Constructor      | Mixin       | State                   |
+| Singleton        | Facade      | Chain of Responsibility |
+| Factory          | \*Flyweight | Iterator                |
+| Abstract Factory | Decorator   | Strategy                |
+| Builder          | Proxy       | Mediator                |
+|                  | Adapter     | Command                 |
+|                  | Composite   | \*Interpreter           |
 
 ## Getting started
 
